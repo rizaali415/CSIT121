@@ -7,7 +7,7 @@
 body{
     /* background-image: url("cookies3.jpg"); */
     color: aliceblue;
-    background-image: linear-gradient(pink,goldenrod); 
+    background-image: linear-gradient(#eeaeca,rgba(148,187,233,100)); 
 }
 h1 span {
     color:brown;
