@@ -1,0 +1,104 @@
+
+/* *{
+    margin: 0%;
+    padding: 0%;
+} */
+
+body{
+    /* background-image: url("cookies3.jpg"); */
+    color: aliceblue;
+    background-image: linear-gradient(pink,goldenrod); 
+}
+h1 span {
+    color:brown;
+    font-size: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: antiquewhite;
+    text-transform: capitalize;
+}
+
+/* .img{
+    width: 400px;
+    height: 300px;
+    margin-left: 200px;
+} */
+li{
+    color:rgb(50, 58, 205);
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.i  {
+    color:   rgb(50, 58, 205);
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    /* background-color: antiquewhite; */
+    
+}
+.s  {
+    color:   rgb(50, 58, 205);
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    /* background-color: rgb(215, 207, 51); */
+    
+}
+
+h2 span{
+    background-color: goldenrod;
+    color: brown;
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+
+}
+
+h3{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+h4{
+    color: black;
+    font-size: larger;
+}
+
+p{
+    color: black;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    text-transform: inherit;
+    text-indent: 2em;
+    
+}
+
+a{
+    color: navy;
+    font-size: larger;
+    font-style: oblique;
+}
+
+iframe
+{
+    border:0;
+}
+
+.gif{
+    /* height: 150px;
+    width: 30%; */
+    margin-left: 200px;
+    border-radius: 5%;
+}
+li{
+    /* word-wrap: wrap; */
+    flex-wrap: wrap;
+}

@@ -1,0 +1,117 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.pr{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    align-self: center;
+    width: 1400px;
+    height: 700px;
+    /* background-color: blueviolet; */
+}
+.section{
+    width: 75%;
+    height: 330px;
+    /* height: 230px; */
+    /* background-image: linear-gradient(yellow,rgb(176, 18, 84),rgb(200, 18, 200));  */
+    background-image: linear-gradient(pink,rgb(193, 12, 193)); 
+    border-radius: 25px;
+    display: flex;
+    /* margin-left: auto;
+    margin-right: auto; */
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+ 
+    
+}
+.pblck{
+    width:100%;
+    height:260px;
+    /* height:160px; */
+    margin-top: 30px;
+    display: flex;
+    /* background-color: blue; */
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+    flex-direction: row;
+
+}
+
+/* img{
+    border-radius: 10%;
+    width: 100%;
+    height: 240px;
+    /* height: 140px; 
+    
+    
+} */
+
+
+
+#NC{
+    border-radius: 10%;
+    /* width: 140px;
+    height: 140px; */
+    width: 220px;
+    height: 220px;
+    background-image: url("https://live.staticflickr.com/4092/5097844206_1540c0d2a9_b.jpg");
+    background-size: cover;
+}
+
+#IL{
+    border-radius: 10%;
+    /* width: 140px;
+    height: 140px; */
+    width: 220px;
+    height: 220px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUhJyMbOJo2ySxBKCiRvuD7gKz6aMcXrusFGv08I-7hoUfDALwn4PXPjYPkO-aVKRrv_E&usqp=CAU");
+    background-size: cover;
+}
+
+#MD{
+    border-radius: 10%;
+    /* width: 140px;
+    height: 140px; */
+    width: 220px;
+    height: 220px;
+    background-image: url("https://live.staticflickr.com/4019/4581529205_1ceef80a03_c.jpg");
+    background-size: cover;
+    
+}
+
+#VA{
+    border-radius: 10%;
+    /* width: 140px;
+    height: 140px; */
+    width: 220px;
+    height: 220px;
+    background-image: url("https://i.pinimg.com/736x/be/6a/01/be6a011ad13f918026d305150aa3aeb2--virginia-beach-boardwalk-beaches.jpg");
+    background-size: cover;
+}
+
+.ptext{
+    /* background-color: red; */
+    width:100%;
+    height:70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    margin-left: 35px;
+}
+.htext{
+    width: 100%;
+    height: 30px;
+    /* background-color: aqua; */
+    display: flex;
+    list-style-type: none;
+    justify-content:space-around;
+    /* align-items: center; */
+    align-content: center;
+    font-size: 22px;
+}
