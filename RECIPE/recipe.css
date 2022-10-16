@@ -1,0 +1,147 @@
+
+/* *{
+    margin: 0%;
+    padding: 0%;
+} */
+
+body{
+    background-image: url("cookies3.jpg");
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+
+.ing{
+    /* display: flex; */
+    float:left;
+    width: 40%;
+    margin-bottom: 70px;
+    position: absolute;
+    word-wrap: normal; 
+}
+
+
+.ins{
+    /* margin-right: 150px; */
+    float: right;
+    width: 60%;
+    margin-bottom: 70px;
+    word-wrap: normal;
+}
+
+
+.heading{ 
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    align-content: center; 
+}
+
+
+h1 span {
+    color:brown;
+    font-size: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: antiquewhite;
+    text-transform: capitalize;
+}
+
+.i  {
+    color:   rgb(50, 58, 205);
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    background-color: antiquewhite;
+    
+}
+.s  {
+    color:   rgb(50, 58, 205);
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    background-color: rgb(215, 207, 51);
+    
+}
+
+h2 span{
+    background-color: goldenrod;
+    color: brown;
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    margin-bottom: 40px;
+
+}
+
+h3{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+h4{
+    color: black;
+    font-size: larger;
+    position: relative;
+    top: 400px;
+}
+
+p{
+    color: black;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    text-transform: inherit;
+    text-indent: 2em;
+    margin-top: 70px;
+    position: relative;
+    top: 100px;
+    
+}
+
+a{
+    color: navy;
+    font-size: larger;
+    font-style: oblique;
+    position: relative; 
+    top: 100px; 
+
+}
+
+.toll:link{ 
+    color:  #265301; 
+} 
+
+.toll:visited{
+    color:rgb(147, 31, 147);
+}
+
+.toll:hover{
+    color: red;
+}
+
+iframe
+{
+    border:0;
+    position: relative;
+    top: 400px;
+}
+
+.gif{
+    /* height: 150px;
+    width: 30%; */
+    margin-left: 200px;
+    border-radius: 5%;
+    position: relative;
+    left: 700px;
+    margin-top: 70px;
+}
+li{
+    /* word-wrap: wrap; */
+    flex-wrap: wrap;
+}
